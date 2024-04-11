@@ -2,7 +2,7 @@
 from langchain_openai import OpenAI
 
 # We are importing secreat key from secretkey.py file which is stored in our folder to make confidentiality
-# Added llm model
+# Added
 from constant import secreat_key
 
 llm_prompt=OpenAI(openai_api_key=secreat_key)
