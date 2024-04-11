@@ -1,5 +1,3 @@
 Hi please save this
 
-hi all addded mre info
-
-customer login detrrails ffggfdfgg
+hi all addded mre inf
