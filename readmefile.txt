@@ -11,3 +11,5 @@ Added Display Button
 Added Page Navigation
 
 Added ETL Pipeline
+
+Added Open Bank Account
