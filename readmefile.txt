@@ -14,4 +14,4 @@ Added ETL Pipeline
 
 Added Open Bank Account
 
-Added Gmail account openinghga
+Added Gmail account openingh
